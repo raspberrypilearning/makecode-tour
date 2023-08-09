@@ -1,59 +1,22 @@
-## Introduction
+### The MakeCode Editor
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Created by the micro:bit Foundation, the **MakeCode editor** has everything you need to get started coding on micro:bit. 
 
-### What you will make
+![The MakeCode Editor window](images/makecode-tour.png)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+On the left side there is a **simulator**, this contains a virtual micro:bit that you can use to test your code! 
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+It has all the features and buttons found on a V2 micro:bit, including:
++ LED display
++ Speaker
++ Microphone
++ Input buttons
+    + A
+    + B
+    + Logo
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+In the centre there is the **blocks panel** which is colour-coded and allows you to access various code blocks.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+On the right side is the **code editor panel** to drag and drop blocks into when creating your program.
 
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+The MakeCode editor panel already contains two blocks: `on start` and `forever`.
