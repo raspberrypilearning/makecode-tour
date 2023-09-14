@@ -1,4 +1,4 @@
-Created by the Micro:bit Educational Foundation, the **Microsoft MakeCode editor** has everything you need to start coding with your micro:bit.
+The **Microsoft MakeCode editor** is an official editor for micro:bit. It has everything you need to start coding with your micro:bit.
 
 ![The MakeCode editor window.](images/makecode-tour.png)
 
