@@ -1,20 +1,20 @@
-The **Microsoft MakeCode editor** is an official editor for micro:bit. It has everything you need to start coding with your micro:bit.
+De **Microsoft MakeCode editor** is een officiële editor voor micro:bit. Het heeft alles wat je nodig hebt om te beginnen met coderen met je micro:bit.
 
-![The MakeCode editor window.](images/makecode-tour.png)
+![Het MakeCode editor venster.](images/makecode-tour.png)
 
-On the left-hand side of the editor, there is a **simulator**. The simulator is a virtual micro:bit that you can use to test your code.
+Aan de linkerkant van de editor is er een **simulator**. De simulator is een virtuele micro:bit die je kunt gebruiken om je code te testen.
 
-The simulator has all the features and buttons found on a micro:bit V2, including:
-+ LED display
-+ Speaker
-+ Microphone
-+ Input buttons:
+De simulator heeft alle functies en knoppen die je op een micro:bit V2 vindt, waaronder:
++ LED scherm
++ Luidspreker
++ Microfoon
++ Invoerknoppen:
     + A
     + B
     + Logo
 
-In the centre of the editor, there is the **blocks panel**. The blocks panel is colour-coded and allows you to access various code blocks.
+In het midden van de editor staat het paneel **blokken**. Het blokken paneel is kleurgecodeerd en geeft je toegang tot verschillende codeblokken.
 
-On the right-hand side of the editor, there is the **code editor panel**. The code editor panel is where you will drag and drop blocks when you are creating your program.
+Aan de rechterkant van de editor is het **bewerkingspaneel**. Het bewerkingspaneel is de plek waar je blokken naar toe sleept en neerzet als je jouw programma maakt.
 
-The code editor panel already contains two blocks: `on start` and `forever`.
+Het bewerkingspaneel bevat al twee blokken: `bij opstarten` en `de hele tijd`.
