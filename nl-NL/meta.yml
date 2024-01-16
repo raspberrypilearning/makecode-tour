@@ -1,4 +1,6 @@
+
 ---
+
 title: Rondleiding door MakeCode
 hero_image: images/banner.png
 description: standaard-project-sjabloon beschrijving
@@ -8,3 +10,4 @@ copyedit: false
 last_tested: "2022-05-19"
 steps:
   - title: Rondleiding door MakeCode
+
