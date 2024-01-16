@@ -1,3 +1,4 @@
+---
 title: Περιήγηση στο MakeCode
 hero_image: images/banner.png
 description: περιγραφή προεπιλεγμένου έργου-προτύπου
@@ -6,5 +7,4 @@ listed: false
 copyedit: false
 last_tested: "2022-05-19"
 steps:
-  - 
-    title: Περιήγηση στο MakeCode
+  - title: Περιήγηση στο MakeCode
