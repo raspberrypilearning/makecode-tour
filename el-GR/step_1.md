@@ -1,20 +1,20 @@
-The **Microsoft MakeCode editor** is an official editor for micro:bit. It has everything you need to start coding with your micro:bit.
+Το **Microsoft MakeCode editor** είναι επίσημο πρόγραμμα επεξεργασίας για micro:bit. Έχει όλα όσα χρειάζεσαι για να ξεκινήσεις τον προγραμματισμό με το micro:bit σου.
 
-![The MakeCode editor window.](images/makecode-tour.png)
+![Το παράθυρο του επεξεργαστή MakeCode.](images/makecode-tour.png)
 
-On the left-hand side of the editor, there is a **simulator**. The simulator is a virtual micro:bit that you can use to test your code.
+Στην αριστερή πλευρά του προγράμματος επεξεργασίας, υπάρχει ένας **προσομοιωτής**. Ο προσομοιωτής είναι ένα εικονικό micro:bit που μπορείς να χρησιμοποιήσεις για να δοκιμάσεις τον κώδικά σου.
 
-The simulator has all the features and buttons found on a micro:bit V2, including:
-+ LED display
-+ Speaker
-+ Microphone
-+ Input buttons:
+Ο προσομοιωτής έχει όλα τα χαρακτηριστικά και τα κουμπιά που βρίσκονται σε ένα micro:bit V2, συμπεριλαμβανομένων:
++ Οθόνη LED
++ Ηχείο
++ Μικρόφωνο
++ Κουμπιά εισόδου:
     + A
     + B
-    + Logo
+    + Λογότυπο (Logo)
 
-In the centre of the editor, there is the **blocks panel**. The blocks panel is colour-coded and allows you to access various code blocks.
+Στο κέντρο του προγράμματος επεξεργασίας, υπάρχει ο **πίνακας με τα μπλοκ**. Ο πίνακας μπλοκ είναι χρωματικά κωδικοποιημένος και σου επιτρέπει να έχεις πρόσβαση σε διάφορα μπλοκ κώδικα.
 
-On the right-hand side of the editor, there is the **code editor panel**. The code editor panel is where you will drag and drop blocks when you are creating your program.
+Στη δεξιά πλευρά του επεξεργαστή, υπάρχει ο **πίνακας του επεξεργαστή κώδικα**. Ο πίνακας επεξεργασίας κώδικα είναι ο χώρος όπου θα σύρεις και θα αποθέσεις μπλοκ όταν δημιουργείς το πρόγραμμά σου.
 
-The code editor panel already contains two blocks: `on start` and `forever`.
+Ο πίνακας επεξεργασίας κώδικα περιέχει ήδη δύο μπλοκ: `κατά την έναρξη` και `για πάντα`.
