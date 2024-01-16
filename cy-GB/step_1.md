@@ -1,20 +1,20 @@
-The **Microsoft MakeCode editor** is an official editor for micro:bit. It has everything you need to start coding with your micro:bit.
+Mae golygydd **Microsoft MakeCode** yn olygydd swyddogol ar gyfer micro:bit. Mae ganddo bopeth sydd ei angen arnoch i ddechrau codio gyda'ch micro:bit.
 
-![The MakeCode editor window.](images/makecode-tour.png)
+![Ffenestr golygydd MakeCode.](images/makecode-tour.png)
 
-On the left-hand side of the editor, there is a **simulator**. The simulator is a virtual micro:bit that you can use to test your code.
+Ar yr ochr chwith y golygydd, mae **efelychydd**. Micro:bit rhithwir yw hwn y gallwch ei ddefnyddio i brofi'ch côd.
 
-The simulator has all the features and buttons found on a micro:bit V2, including:
-+ LED display
-+ Speaker
-+ Microphone
-+ Input buttons:
+Mae gan yr efelychydd yr holl nodweddion a botymau a geir ar micro:bit V2, gan gynnwys:
++ Arddangosfa LED
++ Seinydd
++ Meicroffon
++ Botymau mewnbwn:
     + A
     + B
     + Logo
 
-In the centre of the editor, there is the **blocks panel**. The blocks panel is colour-coded and allows you to access various code blocks.
+Yng nghanol y golygydd, mae'r panel **blociau**. Mae gan y panel blociau gôd lliw ac mae'n caniatáu i chi gael mynediad at flociau côd amrywiol.
 
-On the right-hand side of the editor, there is the **code editor panel**. The code editor panel is where you will drag and drop blocks when you are creating your program.
+Ar ochr dde'r golygydd, mae panel golygydd **côd**. Y panel golygydd côd yw lle byddwch chi'n llusgo a gollwng blociau pan fyddwch chi'n creu eich rhaglen.
 
-The code editor panel already contains two blocks: `on start` and `forever`.
+Mae panel golygydd y côd eisoes yn cynnwys dau floc: `ar y cychwyn` ac `am byth`.
