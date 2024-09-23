@@ -1,5 +1,3 @@
-
----
 title: Visite guidée de MakeCode
 hero_image: images/banner.png
 description: description modele-projet-par defaut
@@ -8,4 +6,5 @@ listed: false
 copyedit: false
 last_tested: "2022-05-19"
 steps:
-  - title: Visite guidée de MakeCode
+  - 
+    title: Visite guidée de MakeCode
