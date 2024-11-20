@@ -1,20 +1,20 @@
-The **Microsoft MakeCode editor** is an official editor for micro:bit. It has everything you need to start coding with your micro:bit.
+**Microsoft MakeCode エディター** は、micro:bit の公式エディターです。 micro:bitを使ってプログラミングを始めるのに必要なものはすべて揃っています。
 
-![The MakeCode editor window.](images/makecode-tour.png)
+![MakeCode エディター ウィンドウ。](images/makecode-tour.png)
 
-On the left-hand side of the editor, there is a **simulator**. The simulator is a virtual micro:bit that you can use to test your code.
+エディターの左側には、 **シミュレーター**があります。 シミュレーターは、コードをテストするために使用できる仮想 micro:bit です。
 
-The simulator has all the features and buttons found on a micro:bit V2, including:
-+ LED display
-+ Speaker
-+ Microphone
-+ Input buttons:
+シミュレーターには、以下を含むmicro:bit V2 にあるすべての機能とボタンが備わっています。
++ LEDディスプレイ
++ スピーカー
++ マイク
++ 以下の入力ボタン:
     + A
     + B
-    + Logo
+    + ロゴ
 
-In the centre of the editor, there is the **blocks panel**. The blocks panel is colour-coded and allows you to access various code blocks.
+エディターの中央には、 **ブロック パネル**があります。 ブロック パネルは色分けされており、さまざまなコード ブロックにアクセスできます。
 
-On the right-hand side of the editor, there is the **code editor panel**. The code editor panel is where you will drag and drop blocks when you are creating your program.
+エディターの右側には、 **コード エディター パネル**があります。 コード エディター パネルは、プログラムを作成するときにブロックをドラッグ アンド ドロップする場所です。
 
-The code editor panel already contains two blocks: `on start` and `forever`.
+コードエディタパネルには、 `最初だけ` と `ずっと`の2つのブロックが含まれています。
